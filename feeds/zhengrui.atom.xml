@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>TA</title><link>/</link><description></description><lastBuildDate>Mon, 09 Feb 2015 00:00:00 +0800</lastBuildDate><item><title>COMP4641: Social Information Networks Analysis and Engineering (Spring 2015) Tutorial</title><link>/Comp4641Main_tutorial.html</link><description>&lt;h1&gt;&lt;strong&gt;Tutorial 2&lt;/strong&gt;&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TA</title><link href="/" rel="alternate"></link><link href="/feeds/zhengrui.atom.xml" rel="self"></link><id>/</id><updated>2015-02-09T00:00:00+08:00</updated><entry><title>COMP4641: Social Information Networks Analysis and Engineering (Spring 2015) Tutorial</title><link href="/Comp4641Main_tutorial.html" rel="alternate"></link><published>2015-02-09T00:00:00+08:00</published><author><name>zhengrui</name></author><id>tag:,2015-02-09:Comp4641Main_tutorial.html</id><summary type="html">&lt;h1&gt;&lt;strong&gt;Tutorial 2&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;h1 id="installation-of-snap-and-networkx"&gt;Installation of SNAP and NetworkX&lt;/h1&gt;
@@ -4280,7 +4280,7 @@ In&amp;nbsp;[]:
         (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
     }
 &lt;/script&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">zhengrui</dc:creator><pubDate>Mon, 09 Feb 2015 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:,2015-02-09:Comp4641Main_tutorial.html</guid><category>TA Courses</category></item><item><title>COMP1029P: Python Bridging Course (Fall 2014)</title><link>/Comp1029pMain.html</link><description>&lt;h2&gt;Lab_1&lt;/h2&gt;
+</summary><category term="TA Courses"></category></entry><entry><title>COMP1029P: Python Bridging Course (Fall 2014)</title><link href="/Comp1029pMain.html" rel="alternate"></link><published>2014-09-18T00:00:00+08:00</published><author><name>zhengrui</name></author><id>tag:,2014-09-18:Comp1029pMain.html</id><summary type="html">&lt;h2&gt;Lab_1&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Overview: installation of python3 (IDLE under windows), variables, string and list operations (slicing + concatination), booleans&lt;/p&gt;
@@ -6289,7 +6289,7 @@ In&amp;nbsp;[1]:
 &lt;p&gt;&lt;a href="https://www.youtube.com/user/PyDataTV/videos"&gt;PyData2014&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://pyvideo.org/category"&gt;Collection of Python Related Videos&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Enjoy Python :)&lt;/h2&gt;
-&lt;h6&gt;If you want to be a data scientist in future, you really need to be a master of python!&lt;/h6&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">zhengrui</dc:creator><pubDate>Thu, 18 Sep 2014 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:,2014-09-18:Comp1029pMain.html</guid><category>TA Courses</category></item><item><title>COMP1029P: Python Bridging Course (Fall 2014) Tutorial</title><link>/Comp1029pMain_tutorial.html</link><description>&lt;h2&gt;Week 2&lt;/h2&gt;
+&lt;h6&gt;If you want to be a data scientist in future, you really need to be a master of python!&lt;/h6&gt;</summary><category term="TA Courses"></category></entry><entry><title>COMP1029P: Python Bridging Course (Fall 2014) Tutorial</title><link href="/Comp1029pMain_tutorial.html" rel="alternate"></link><published>2014-09-18T00:00:00+08:00</published><author><name>zhengrui</name></author><id>tag:,2014-09-18:Comp1029pMain_tutorial.html</id><summary type="html">&lt;h2&gt;Week 2&lt;/h2&gt;
 &lt;p&gt;
 &lt;div class="cell border-box-sizing code_cell vbox"&gt;
 &lt;div class="input hbox"&gt;
@@ -8531,7 +8531,7 @@ In&amp;nbsp;[9]:
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">zhengrui</dc:creator><pubDate>Thu, 18 Sep 2014 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:,2014-09-18:Comp1029pMain_tutorial.html</guid><category>TA Courses</category></item><item><title>COMP3511: Operating System (Spring 2014) Project 2 Synchronization</title><link>/Comp3511Synchronization.html</link><description>&lt;p&gt;The purpose of this project is to understand basic concepts in synchronization by implementing some primitives like lock, condition variable and monitor(semaphore is already implemented in Nachos), and then using them to solve the bunded buffer problem.&lt;/p&gt;
+&lt;/div&gt;&lt;/p&gt;</summary><category term="TA Courses"></category></entry><entry><title>COMP3511: Operating System (Spring 2014) Project 2 Synchronization</title><link href="/Comp3511Synchronization.html" rel="alternate"></link><published>2014-04-04T00:00:00+08:00</published><author><name>zhengrui</name></author><id>tag:,2014-04-04:Comp3511Synchronization.html</id><summary type="html">&lt;p&gt;The purpose of this project is to understand basic concepts in synchronization by implementing some primitives like lock, condition variable and monitor(semaphore is already implemented in Nachos), and then using them to solve the bunded buffer problem.&lt;/p&gt;
 &lt;p&gt;It is easier to understand these concepts based on some real life experience, imagine the following situation:&lt;/p&gt;
 &lt;p&gt;I have a free bicycle rental shop, and you are the customers who want to be the free riders, but you have to come to my shop, join the queue in front of my shop and wait for your turn. If when you enter my shop i still have bicycles then you succeed, but my shop only have 50 bicycles, and everyone can only rent 1 bicycle.&lt;/p&gt;
 &lt;p&gt;Here i am the cpu or shared resources, you customers are the threads, and queue in front of my shop is the ready queue. Here we use first come first serve scheduling, which means the customers in the queue enter my shop one by one sequentially.&lt;/p&gt;
@@ -8878,4 +8878,4 @@ make
 &lt;li&gt;&lt;a href="http://code.google.com/p/nachos-cs170/source/browse/trunk/nachos-3.4/code/"&gt;Nachos Code Sample3&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.cnblogs.com/xjx-user/archive/2012/12/05/2803291.html"&gt;Nachos Code Sample4 (chinese)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://course.sdu.edu.cn/Download/1bdf6fb7-6bc1-44f9-b292-5c7f528167fe.pdf"&gt;Good Material sdu.edu.cn (chinese)&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">zhengrui</dc:creator><pubDate>Fri, 04 Apr 2014 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:,2014-04-04:Comp3511Synchronization.html</guid><category>TA Courses</category></item></channel></rss>
+&lt;/ol&gt;</summary><category term="TA Courses"></category></entry></feed>
